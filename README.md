@@ -8,5 +8,6 @@ To use this with your client:
 
 ******************************************************************************************
 Credit to @MCMagicParks for allowing us to use resources from the MCMagic Resouce Pack
+
 Credit to @William_Malo for allowing us to use resources from WillPack
 ******************************************************************************************
